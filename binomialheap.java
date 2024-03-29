@@ -250,6 +250,6 @@ public class Main {
         binHeap.displayHeap();
 
         scanner.close();
-    }
+    }
 }
 

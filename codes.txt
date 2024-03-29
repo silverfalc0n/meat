@@ -8,4 +8,6 @@ heapsort.java
 karrayheap.java
 recoverthebst.java
 topological.java
+treeviews.java
 verticalorder.java
+winnertree.java
